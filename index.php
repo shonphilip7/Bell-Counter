@@ -14,9 +14,6 @@
 		<link type="text/css" href="_assets/css/bootstrap-timepicker.min.css" rel="stylesheet" />
 		<!-- CSS -->
 		<link type="text/css" href="_assets/css/style.css" rel="stylesheet" />
-		
-		<!-- Bootstrap Form Helpers -->
-        <link href="" rel="stylesheet" media="screen">
 
         <!--[if lt IE 9]>
         <script src="https://oss.maxcdn.com/html5shiv/3.7.3/html5shiv.min.js"></script>
