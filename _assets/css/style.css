@@ -1,0 +1,14 @@
+  /**
+  * Name: Bell counter stylesheet
+  * Author: Shon Philip 
+  * Version: 1.0
+  */
+
+
+  #strTime-error, #endTime-error {
+    color:#FF0000;
+  }
+  
+  .alert {
+    margin-top:5px;
+  }
