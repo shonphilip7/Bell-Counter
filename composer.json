@@ -1,0 +1,10 @@
+{
+    "autoload": {
+	   "psr-4": {
+	       "Globalfit\\": "Globalfit"   
+	   }
+	},
+    "require": {
+        "phpunit/phpunit": "^6.5"
+    }
+}
