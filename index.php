@@ -10,8 +10,6 @@
 
         <!-- Bootstrap -->
         <link type="text/css" href="_assets/css/bootstrap.min.css" rel="stylesheet" />
-		<!-- Time picker css -->
-		<link type="text/css" href="_assets/css/bootstrap-timepicker.min.css" rel="stylesheet" />
 		<!-- CSS -->
 		<link type="text/css" href="_assets/css/style.css" rel="stylesheet" />
 
