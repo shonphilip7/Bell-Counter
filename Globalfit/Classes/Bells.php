@@ -1,7 +1,8 @@
 <?php
 namespace Globalfit\Classes;
   
-  class Bells {  
+  class Bells
+  {  
 	 /**
 	   * a blank contructor
 	   */

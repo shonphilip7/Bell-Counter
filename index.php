@@ -76,7 +76,7 @@
         <script src="_assets/js/bootstrap.min.js"></script>
 		
 		<!-- Bootstrap Time Picker -->
-        <script type="text/javascript" src="_assets/js/bootstrap-timepicker.min.js"></script>
+        <script src="_assets/js/bootstrap-timepicker.min.js"></script>
 		<!-- Validation -->
 		<script src="_assets/js/jquery.validate.min.js"></script>
 		<!-- Main js for the application -->
